@@ -713,4 +713,25 @@ input[type='radio'] {
   .mobi {
     display: block;
   }
+
+  #listjasa {
+    padding: 0;
+  }
+
+  .info {
+    display: block;
+  }
+
+  .info-peraturan {
+    margin: 0;
+  }
+
+  .info-harga {
+    margin: 1rem;
+  }
+
+  .info-harga input {
+    display: block;
+    padding: 10px 0;
+  }
 }
