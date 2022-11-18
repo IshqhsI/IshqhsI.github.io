@@ -727,11 +727,30 @@ input[type='radio'] {
   }
 
   .info-harga {
-    margin: 1rem;
+    margin: 2rem;
+    margin: auto;
+  }
+
+  .info-harga div {
+    width: 90%;
+    margin: auto;
   }
 
   .info-harga input {
-    display: block;
-    padding: 10px 0;
+    width: 90%;
+  }
+
+  .info-harga h2 {
+    margin: auto;
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  .info-beli {
+    text-align: center;
+  }
+
+  .info-beli button {
+    margin: 2rem auto;
   }
 }
